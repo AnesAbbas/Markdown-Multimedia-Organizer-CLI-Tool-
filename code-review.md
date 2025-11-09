@@ -137,4 +137,3 @@ It also tracks and reports totals for:
 | UX / Output     | 10           |
 | **Overall**     | **9.0 / 10** |
 
----
